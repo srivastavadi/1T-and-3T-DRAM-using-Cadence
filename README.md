@@ -4,8 +4,13 @@ This repository presents the design and simulation of 1-Transistor (1T) DRAM and
 The simulations were carried out to analyze:
 
 Data storage capability
+
 Read and write functionality
+
 Retention characteristics
+
 Power consumption
+
 Access speed
+
 Stability of memory cells
