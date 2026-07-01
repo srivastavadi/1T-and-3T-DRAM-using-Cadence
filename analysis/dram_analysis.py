@@ -5,7 +5,7 @@ Measured values are read off the Cadence Virtuoso transient sims (waveform PNGs
 in the repo root); charge/energy/retention are derived analytically.
 
     python3 dram_analysis.py            # print table
-    python3 dram_analysis.py --plot     # + write ../results/dram_comparison.png
+    python3 dram_analysis.py --plot    
 """
 
 import argparse
